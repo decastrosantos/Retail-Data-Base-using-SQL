@@ -1,0 +1,1001 @@
+ProductId,ProductName,employer_name,price,qtd,date,CustomerId
+1,"Tea - Darjeeling, Azzura",Darell Leatherborrow,169.70,7,2020/06/15,878
+2,Flavouring - Rum,Baryram Hemshall,54.93,7,2020/04/13,882
+3,Lighter - Bbq,Dallis Penwright,164.14,19,2020/09/01,89
+4,"Wine - Sherry Dry Sack, William",Quentin Simonson,926.71,11,2020/02/01,752
+5,Fenngreek Seed,Pepi Porkiss,500.17,14,2020/05/05,656
+6,Bread Cranberry Foccacia,Dallis Penwright,714.44,4,2020/08/29,717
+7,"Coconut - Creamed, Pure",Jada Gouch,420.82,14,2020/10/28,150
+8,Beets - Mini Golden,Jada Gouch,240.87,7,2020/02/07,579
+9,Barley - Pearl,Katina Calf,550.29,17,2020/09/07,798
+10,Coffee - Espresso,Baryram Hemshall,932.81,5,2020/11/15,607
+11,Flavouring - Raspberry,Dallis Penwright,65.36,7,2020/07/09,827
+12,Crab - Meat,Hunfredo Lenglet,728.66,1,2020/10/14,888
+13,Puff Pastry - Slab,Darell Leatherborrow,459.54,10,2020/05/21,809
+14,Wine - Pinot Noir Stoneleigh,Quentin Simonson,447.16,12,2020/08/03,481
+15,"Flour - Buckwheat, Dark",Pepi Porkiss,147.92,9,2020/06/24,17
+16,Lobster - Live,Margi Sarah,379.45,13,2020/07/07,844
+17,Wood Chips - Regular,Quentin Simonson,433.30,2,2020/07/31,614
+18,Spic And Span All Purpose,Katina Calf,398.66,11,2020/03/03,107
+19,Cardamon Seed / Pod,Katina Calf,221.15,14,2020/01/15,709
+20,"Flour - Bran, Red",Hunfredo Lenglet,702.22,16,2020/11/03,783
+21,Beer - True North Strong Ale,Katina Calf,584.02,10,2020/02/02,161
+22,Soup Campbells Mexicali Tortilla,Hunfredo Lenglet,877.43,7,2020/05/19,430
+23,Chick Peas - Canned,Silvana Behning,411.36,19,2020/09/21,346
+24,Sausage - Meat,Silvana Behning,126.01,18,2020/07/04,893
+25,Ocean Spray - Kiwi Strawberry,Dallis Penwright,133.19,11,2020/10/22,903
+26,"Veal - Inside, Choice",Dallis Penwright,550.62,16,2020/09/01,901
+27,Pie Pecan,Baryram Hemshall,234.53,7,2020/10/08,273
+28,The Pop Shoppe - Lime Rickey,Katina Calf,882.75,7,2020/03/16,66
+29,Lettuce - Boston Bib,Quentin Simonson,680.51,2,2020/04/09,803
+30,Mushroom - White Button,Silvana Behning,944.59,16,2020/11/02,613
+31,Tea - Herbal Orange Spice,Margi Sarah,175.29,19,2020/04/14,557
+32,Halibut - Fletches,Darell Leatherborrow,193.75,2,2020/11/09,622
+33,Cake - Dulce De Leche,Silvana Behning,869.22,17,2020/06/03,386
+34,"Wine - Red, Colio Cabernet",Silvana Behning,343.85,3,2020/08/13,671
+35,"Asparagus - White, Canned",Quentin Simonson,654.30,11,2020/08/23,346
+36,Hold Up Tool Storage Rack,Katina Calf,624.74,16,2020/02/08,564
+37,Berry Brulee,Jada Gouch,569.68,10,2020/05/21,213
+38,Soup - Campbells Chicken,Darell Leatherborrow,547.14,12,2020/09/25,465
+39,Grapefruit - Pink,Quentin Simonson,681.13,14,2020/04/20,849
+40,Sauce - Ranch Dressing,Hunfredo Lenglet,930.11,15,2020/02/17,827
+41,Tea - Earl Grey,Katina Calf,472.70,7,2020/02/06,60
+42,Bar Nature Valley,Jada Gouch,65.99,7,2020/10/13,446
+43,Oregano - Fresh,Katina Calf,961.29,19,2020/08/29,349
+44,Cookie Dough - Chunky,Hunfredo Lenglet,954.62,18,2020/07/12,830
+45,Pie Filling - Apple,Pepi Porkiss,331.78,12,2020/01/14,944
+46,"Beans - Fava, Canned",Jada Gouch,932.06,8,2020/06/30,949
+47,Spice - Peppercorn Melange,Dallis Penwright,480.13,17,2020/10/11,651
+48,Wood Chips - Regular,Dallis Penwright,843.71,11,2020/02/25,468
+49,Soup Bowl Clear 8oz92008,Baryram Hemshall,850.24,13,2020/09/08,133
+50,Dooleys Toffee,Quentin Simonson,390.18,20,2020/08/29,417
+51,Dish Towel,Silvana Behning,678.07,8,2020/01/28,793
+52,Wine - Zinfandel Rosenblum,Jada Gouch,874.17,20,2020/05/21,657
+53,Calypso - Black Cherry Lemonade,Quentin Simonson,547.28,17,2020/08/21,119
+54,Cheese - Taleggio D.o.p.,Baryram Hemshall,446.93,19,2020/10/23,760
+55,Ham - Procutinni,Jada Gouch,145.54,4,2020/06/27,881
+56,Almonds Ground Blanched,Jada Gouch,150.70,8,2020/01/08,887
+57,Almonds Ground Blanched,Hunfredo Lenglet,985.62,20,2020/02/06,308
+58,Hand Towel,Pepi Porkiss,315.59,4,2020/05/19,185
+59,Cheese - Parmesan Grated,Katina Calf,204.76,13,2020/01/30,275
+60,"Juice - Clamato, 341 Ml",Katina Calf,322.58,4,2020/02/27,871
+61,Tomato - Green,Pepi Porkiss,679.77,6,2020/03/03,302
+62,Gingerale - Diet - Schweppes,Baryram Hemshall,807.38,9,2020/01/15,364
+63,Temperature Recording Station,Margi Sarah,488.98,16,2020/08/15,648
+64,"Turkey - Breast, Boneless Sk On",Jada Gouch,807.39,10,2020/05/07,123
+65,Pork - Ham Hocks - Smoked,Pepi Porkiss,741.55,3,2020/08/19,546
+66,"Pepper - Chillies, Crushed",Pepi Porkiss,348.04,8,2020/10/20,510
+67,"Shrimp - 16 - 20 Cooked, Peeled",Hunfredo Lenglet,105.81,19,2020/03/14,910
+68,Bread - Crusty Italian Poly,Pepi Porkiss,654.71,16,2020/08/26,912
+69,Sausage - Meat,Silvana Behning,193.50,5,2020/01/09,709
+70,Cheese - Brick With Pepper,Darell Leatherborrow,818.69,20,2020/01/28,150
+71,Containter - 3oz Microwave Rect.,Silvana Behning,748.74,20,2020/01/27,4
+72,Veal - Eye Of Round,Margi Sarah,110.28,3,2020/02/17,663
+73,Wine - Carmenere Casillero Del,Quentin Simonson,928.12,2,2020/04/30,304
+74,"Shrimp - 21/25, Peel And Deviened",Dallis Penwright,428.68,7,2020/06/16,556
+75,Soup - Campbells Chicken,Jada Gouch,122.42,8,2020/02/27,363
+76,Melon - Honey Dew,Dallis Penwright,70.81,19,2020/10/07,143
+77,Nantucket Pine Orangebanana,Pepi Porkiss,213.07,12,2020/06/25,489
+78,Barley - Pearl,Quentin Simonson,490.57,19,2020/09/25,534
+79,Beer - Mill St Organic,Baryram Hemshall,807.75,17,2020/04/20,274
+80,Table Cloth 72x144 White,Baryram Hemshall,495.04,15,2020/04/30,672
+81,Appetizer - Smoked Salmon / Dill,Hunfredo Lenglet,818.79,1,2020/10/11,428
+82,Bagel - Everything,Hunfredo Lenglet,621.17,16,2020/07/23,855
+83,Sauce - Hoisin,Katina Calf,600.82,9,2020/09/15,899
+84,Beer - Camerons Auburn,Dallis Penwright,484.63,11,2020/11/06,941
+85,"Garlic - Primerba, Paste",Katina Calf,552.50,3,2020/07/10,900
+86,Sage - Ground,Silvana Behning,792.01,12,2020/11/10,276
+87,Chinese Foods - Chicken,Baryram Hemshall,982.36,5,2020/03/21,917
+88,Quinoa,Dallis Penwright,360.26,3,2020/10/01,281
+89,Napkin White - Starched,Quentin Simonson,597.81,6,2020/06/09,890
+90,Bread - Wheat Baguette,Dallis Penwright,284.41,11,2020/02/24,221
+91,Rice - Sushi,Margi Sarah,272.66,15,2020/08/19,397
+92,"Vermacelli - Sprinkles, Assorted",Pepi Porkiss,74.70,8,2020/05/13,432
+93,Muffin - Zero Transfat,Hunfredo Lenglet,684.00,17,2020/09/03,544
+94,Whmis Spray Bottle Graduated,Dallis Penwright,954.27,3,2020/08/17,519
+95,"Artichoke - Hearts, Canned",Hunfredo Lenglet,815.71,4,2020/09/03,92
+96,Cake - French Pear Tart,Baryram Hemshall,637.81,6,2020/10/14,965
+97,Sugar - Icing,Silvana Behning,618.05,2,2020/03/19,187
+98,Cheese - Colby,Katina Calf,698.07,3,2020/09/02,22
+99,Beets,Hunfredo Lenglet,482.65,18,2020/11/23,279
+100,Filo Dough,Dallis Penwright,156.74,9,2020/05/15,58
+101,Napkin - Beverage 1 Ply,Baryram Hemshall,897.13,3,2020/05/11,335
+102,Burger Veggie,Silvana Behning,721.91,10,2020/05/26,104
+103,Danishes - Mini Raspberry,Silvana Behning,744.10,4,2020/03/01,894
+104,Honey - Comb,Quentin Simonson,774.57,12,2020/06/29,866
+105,Sauce - Roasted Red Pepper,Pepi Porkiss,613.84,15,2020/10/13,174
+106,Alize Sunset,Pepi Porkiss,593.24,8,2020/05/23,904
+107,Pasta - Agnolotti - Butternut,Pepi Porkiss,74.88,4,2020/06/24,393
+108,Bread Crumbs - Panko,Quentin Simonson,882.65,3,2020/04/23,637
+109,Hot Choc Vending,Margi Sarah,193.79,12,2020/10/06,672
+110,Wine - Prosecco Valdobiaddene,Silvana Behning,600.91,18,2020/07/31,625
+111,Scallops - In Shell,Katina Calf,677.93,1,2020/07/02,87
+112,Carrots - Mini Red Organic,Pepi Porkiss,714.33,5,2020/07/12,442
+113,"Veal - Leg, Provimi - 50 Lb Max",Jada Gouch,670.04,6,2020/09/11,364
+114,"Gingerale - Schweppes, 355 Ml",Jada Gouch,833.13,2,2020/02/07,231
+115,Beer - Mcauslan Apricot,Katina Calf,588.00,18,2020/02/18,619
+116,Smoked Paprika,Hunfredo Lenglet,181.82,14,2020/02/14,151
+117,Bouillion - Fish,Hunfredo Lenglet,301.96,9,2020/03/22,828
+118,Halibut - Steaks,Jada Gouch,151.27,18,2020/06/04,591
+119,"Rum - White, Gg White",Katina Calf,314.27,15,2020/01/27,622
+120,Lettuce - Boston Bib - Organic,Silvana Behning,136.25,7,2020/02/29,136
+121,Bread - White Mini Epi,Hunfredo Lenglet,854.07,19,2020/07/09,77
+122,Sauce - Hoisin,Silvana Behning,563.80,16,2020/02/26,658
+123,Macaroons - Homestyle Two Bit,Pepi Porkiss,969.51,8,2020/01/02,943
+124,Cod - Fillets,Jada Gouch,856.70,16,2020/08/21,33
+125,Melon - Honey Dew,Jada Gouch,776.62,9,2020/11/07,722
+126,"Loaf Pan - 2 Lb, Foil",Margi Sarah,442.98,3,2020/02/27,280
+127,Pork - Side Ribs,Darell Leatherborrow,339.63,11,2020/09/03,948
+128,Burger Veggie,Quentin Simonson,508.29,4,2020/07/06,763
+129,Table Cloth 53x53 White,Jada Gouch,800.13,13,2020/10/16,509
+130,"Rice Pilaf, Dry,package",Jada Gouch,314.36,10,2020/07/16,541
+131,Gelatine Leaves - Bulk,Jada Gouch,601.11,3,2020/11/03,892
+132,Cheese - Oka,Pepi Porkiss,263.93,5,2020/01/20,211
+133,Pork - Bacon Cooked Slcd,Pepi Porkiss,181.43,8,2020/01/02,395
+134,Spic And Span All Purpose,Jada Gouch,428.72,18,2020/11/22,762
+135,Rice - 7 Grain Blend,Quentin Simonson,445.36,15,2020/05/16,659
+136,Gherkin - Sour,Baryram Hemshall,568.47,20,2020/05/20,422
+137,Beef Dry Aged Tenderloin Aaa,Katina Calf,963.36,4,2020/04/27,723
+138,Cocoa Butter,Jada Gouch,712.95,2,2020/05/01,541
+139,Flax Seed,Quentin Simonson,613.85,15,2020/07/08,401
+140,Oranges,Katina Calf,548.85,18,2020/02/23,428
+141,Trueblue - Blueberry,Quentin Simonson,269.80,16,2020/05/08,110
+142,"Soup - Beef Conomme, Dry",Hunfredo Lenglet,966.47,8,2020/03/20,255
+143,Wine - Chateau Aqueria Tavel,Jada Gouch,919.19,4,2020/08/30,872
+144,Goat - Whole Cut,Darell Leatherborrow,264.40,7,2020/02/27,918
+145,Salt - Sea,Quentin Simonson,209.59,16,2020/05/16,431
+146,Oven Mitts 17 Inch,Jada Gouch,308.13,9,2020/04/13,354
+147,Mahi Mahi,Silvana Behning,553.04,16,2020/01/05,840
+148,"Olives - Black, Pitted",Hunfredo Lenglet,755.96,13,2020/05/14,240
+149,Cheese - Brick With Onion,Pepi Porkiss,267.25,13,2020/08/24,809
+150,Red Pepper Paste,Quentin Simonson,216.90,8,2020/09/17,116
+151,Salmon - Fillets,Margi Sarah,415.58,4,2020/09/09,212
+152,Squash - Pepper,Dallis Penwright,405.03,4,2020/10/27,961
+153,Wakami Seaweed,Jada Gouch,169.05,16,2020/09/04,580
+154,Parasol Pick Stir Stick,Katina Calf,722.81,8,2020/10/05,265
+155,Ecolab - Lime - A - Way 4/4 L,Jada Gouch,844.50,9,2020/07/18,543
+156,Browning Caramel Glace,Silvana Behning,737.28,10,2020/10/17,395
+157,Veal - Insides Provini,Pepi Porkiss,174.38,2,2020/04/06,61
+158,Milk - Chocolate 500ml,Katina Calf,747.14,2,2020/06/20,826
+159,Pernod,Margi Sarah,135.05,11,2020/03/24,85
+160,Pie Pecan,Silvana Behning,265.77,11,2020/08/30,697
+161,Garam Marsala,Silvana Behning,106.33,14,2020/09/16,184
+162,Wine - Pinot Noir Mondavi Coastal,Quentin Simonson,202.77,19,2020/01/19,285
+163,Bagelers - Cinn / Brown,Pepi Porkiss,766.45,4,2020/03/09,186
+164,"Nut - Pecan, Pieces",Margi Sarah,557.77,16,2020/04/08,559
+165,"Bar Mix - Pina Colada, 355 Ml",Dallis Penwright,246.21,15,2020/08/29,501
+166,Cookies - Fortune,Hunfredo Lenglet,843.60,12,2020/02/21,684
+167,Wine - Balbach Riverside,Dallis Penwright,262.92,7,2020/02/15,791
+168,Chutney Sauce,Darell Leatherborrow,829.95,14,2020/06/06,192
+169,Cheese - Goat,Baryram Hemshall,423.84,12,2020/11/12,630
+170,Heavy Duty Dust Pan,Jada Gouch,920.72,1,2020/11/13,788
+171,Veal - Knuckle,Katina Calf,952.32,12,2020/05/05,202
+172,Cookie - Oreo 100x2,Quentin Simonson,801.71,18,2020/09/08,492
+173,Temperature Recording Station,Hunfredo Lenglet,654.93,19,2020/04/25,873
+174,Veal - Heart,Quentin Simonson,271.22,13,2020/08/31,641
+175,Vinegar - White,Silvana Behning,878.39,20,2020/01/29,730
+176,Kirsch - Schloss,Hunfredo Lenglet,432.89,13,2020/03/08,197
+177,Garbage Bags - Black,Margi Sarah,797.94,19,2020/01/07,90
+178,Yukon Jack,Margi Sarah,290.22,13,2020/07/25,391
+179,Jolt Cola,Katina Calf,258.06,20,2020/10/21,69
+180,Bagelers,Baryram Hemshall,562.67,12,2020/11/08,522
+181,Pastry - Raisin Muffin - Mini,Silvana Behning,755.30,4,2020/05/15,519
+182,Energy Drink Bawls,Hunfredo Lenglet,696.14,19,2020/08/05,227
+183,Orange Roughy 6/8 Oz,Dallis Penwright,552.64,3,2020/04/21,488
+184,"Bread - White, Unsliced",Darell Leatherborrow,310.32,12,2020/01/14,513
+185,Cinnamon - Stick,Darell Leatherborrow,372.91,5,2020/08/09,616
+186,Water - Tonic,Dallis Penwright,367.57,11,2020/08/07,100
+187,Pepper - Green,Silvana Behning,218.13,19,2020/03/26,583
+188,Knife Plastic - White,Margi Sarah,748.93,10,2020/04/17,89
+189,Table Cloth 54x54 Colour,Jada Gouch,706.72,18,2020/07/01,722
+190,"C - Plus, Orange",Silvana Behning,897.26,7,2020/09/12,15
+191,Black Currants,Dallis Penwright,888.62,5,2020/11/17,213
+192,Wine - Fume Blanc Fetzer,Silvana Behning,276.98,2,2020/01/22,487
+193,Sambuca - Opal Nera,Katina Calf,538.87,14,2020/11/01,742
+194,Table Cloth 54x54 White,Darell Leatherborrow,922.76,16,2020/01/10,62
+195,Salt - Kosher,Katina Calf,990.03,12,2020/07/28,145
+196,Soup - Campbellschix Stew,Pepi Porkiss,838.86,9,2020/02/18,223
+197,"Clams - Littleneck, Whole",Baryram Hemshall,73.20,7,2020/05/30,767
+198,Pecan Raisin - Tarts,Jada Gouch,66.81,3,2020/03/16,851
+199,Red Currant Jelly,Baryram Hemshall,634.53,3,2020/01/20,3
+200,Bouillion - Fish,Dallis Penwright,309.34,10,2020/04/24,211
+201,"Pepper - Chillies, Crushed",Margi Sarah,571.76,1,2020/10/09,177
+202,Shrimp - Black Tiger 26/30,Silvana Behning,192.14,9,2020/01/10,409
+203,Gloves - Goldtouch Disposable,Quentin Simonson,901.42,16,2020/11/07,632
+204,Shrimp - 100 / 200 Cold Water,Silvana Behning,930.93,18,2020/10/20,565
+205,Kellogs Cereal In A Cup,Quentin Simonson,562.05,15,2020/03/08,915
+206,Chocolate Bar - Reese Pieces,Quentin Simonson,469.25,16,2020/01/13,400
+207,"Soup - Campbells, Lentil",Dallis Penwright,753.89,1,2020/01/01,553
+208,Pineapple - Regular,Katina Calf,715.74,8,2020/08/16,13
+209,Cheese - Asiago,Hunfredo Lenglet,917.04,12,2020/02/28,750
+210,Cookies - Englishbay Chochip,Quentin Simonson,355.10,14,2020/01/17,20
+211,"Cheese - Mozzarella, Buffalo",Jada Gouch,401.14,6,2020/09/22,515
+212,"Bread - Bagels, Mini",Dallis Penwright,229.15,5,2020/05/12,169
+213,Spice - Pepper Portions,Margi Sarah,172.97,2,2020/09/16,401
+214,"Bread - Sticks, Thin, Plain",Silvana Behning,980.58,1,2020/06/22,200
+215,Sauce - Alfredo,Silvana Behning,433.94,1,2020/04/10,44
+216,Pears - Bartlett,Baryram Hemshall,976.45,15,2020/10/25,435
+217,Cut Wakame - Hanawakaba,Pepi Porkiss,540.43,6,2020/02/01,600
+218,White Baguette,Hunfredo Lenglet,334.76,8,2020/09/21,324
+219,Pastrami,Pepi Porkiss,504.11,18,2020/05/09,958
+220,"Club Soda - Schweppes, 355 Ml",Silvana Behning,562.70,18,2020/01/05,685
+221,Plums - Red,Silvana Behning,383.37,8,2020/04/12,18
+222,Truffle Cups Green,Silvana Behning,455.54,10,2020/05/28,153
+223,Wiberg Cure,Margi Sarah,866.52,13,2020/04/06,61
+224,Olives - Morracan Dired,Margi Sarah,551.24,5,2020/08/26,448
+225,Black Currants,Dallis Penwright,195.93,6,2020/10/05,203
+226,Corn Meal,Hunfredo Lenglet,722.16,9,2020/08/11,993
+227,Soup Bowl Clear 8oz92008,Dallis Penwright,338.30,9,2020/04/08,879
+228,"Nut - Chestnuts, Whole",Pepi Porkiss,843.22,4,2020/04/03,56
+229,"Nut - Almond, Blanched, Whole",Silvana Behning,987.20,3,2020/10/10,821
+230,Dikon,Baryram Hemshall,659.03,5,2020/11/22,144
+231,Scallop - St. Jaques,Darell Leatherborrow,505.59,6,2020/01/10,242
+232,Food Colouring - Orange,Pepi Porkiss,384.11,7,2020/01/25,494
+233,Onions - Cooking,Katina Calf,989.70,6,2020/08/23,992
+234,Soup - Campbells Bean Medley,Quentin Simonson,425.95,16,2020/10/12,39
+235,Cake - Mini Potato Pancake,Dallis Penwright,569.02,2,2020/11/22,559
+236,"Nestea - Ice Tea, Diet",Silvana Behning,238.19,14,2020/08/13,316
+237,Tomatoes - Grape,Jada Gouch,643.10,5,2020/11/11,104
+238,"Tart Shells - Sweet, 3",Katina Calf,774.31,5,2020/02/05,836
+239,"Liqueur Banana, Ramazzotti",Katina Calf,233.82,4,2020/05/28,595
+240,Pastry - Carrot Muffin - Mini,Quentin Simonson,240.86,16,2020/03/18,965
+241,Pepper - Green,Jada Gouch,224.01,12,2020/09/02,463
+242,Bagel - Everything,Jada Gouch,500.64,12,2020/11/20,260
+243,Sobe - Orange Carrot,Darell Leatherborrow,197.99,18,2020/10/19,189
+244,Pea - Snow,Silvana Behning,428.62,8,2020/01/21,375
+245,Slt - Individual Portions,Quentin Simonson,853.48,7,2020/10/30,189
+246,Muffin Chocolate Individual Wrap,Quentin Simonson,684.19,8,2020/01/22,47
+247,Vaccum Bag - 14x20,Darell Leatherborrow,364.33,1,2020/08/07,788
+248,Appetizer - Southwestern,Baryram Hemshall,977.21,11,2020/09/23,115
+249,Beer - Creemore,Darell Leatherborrow,320.27,15,2020/08/17,483
+250,"Lamb - Leg, Boneless",Jada Gouch,939.88,3,2020/06/29,187
+251,"Pork - Loin, Boneless",Hunfredo Lenglet,979.24,20,2020/05/24,465
+252,Passion Fruit,Baryram Hemshall,394.84,20,2020/04/20,998
+253,Spic And Span All Purpose,Jada Gouch,375.08,18,2020/10/23,348
+254,"Asparagus - Green, Fresh",Quentin Simonson,493.84,6,2020/11/22,854
+255,Tomatoes - Hot House,Katina Calf,767.23,7,2020/06/05,181
+256,Parsley Italian - Fresh,Baryram Hemshall,342.57,15,2020/02/01,696
+257,"Soup - Campbells, Beef Barley",Darell Leatherborrow,277.38,1,2020/02/11,175
+258,Cinnamon - Stick,Dallis Penwright,623.80,19,2020/07/11,968
+259,Longos - Grilled Veg Sandwiches,Hunfredo Lenglet,845.63,12,2020/10/19,436
+260,"Mushroom - Shitake, Fresh",Pepi Porkiss,949.13,7,2020/09/07,163
+261,Tea - English Breakfast,Jada Gouch,343.26,11,2020/02/06,975
+262,Wine - Gewurztraminer Pierre,Silvana Behning,966.41,9,2020/01/26,292
+263,Lobster - Canned Premium,Pepi Porkiss,615.46,16,2020/10/20,505
+264,"Lamb - Leg, Bone In",Quentin Simonson,814.39,16,2020/01/16,842
+265,Blue Curacao - Marie Brizard,Darell Leatherborrow,953.73,9,2020/10/21,44
+266,Beef - Salted,Katina Calf,648.32,5,2020/07/08,117
+267,Lid - 3oz Med Rec,Pepi Porkiss,585.43,8,2020/03/23,849
+268,Bagelers - Cinn / Brown Sugar,Silvana Behning,897.42,14,2020/09/26,465
+269,Appetizer - Mango Chevre,Pepi Porkiss,919.23,5,2020/08/12,604
+270,Venison - Denver Leg Boneless,Katina Calf,914.03,7,2020/07/19,896
+271,Cucumber - Pickling Ontario,Jada Gouch,425.79,15,2020/05/10,339
+272,"Fish - Artic Char, Cold Smoked",Margi Sarah,610.62,3,2020/02/22,48
+273,Lamb Rack - Ontario,Dallis Penwright,426.87,12,2020/02/03,614
+274,Cookie Dough - Oatmeal Rasin,Darell Leatherborrow,858.11,2,2020/06/25,897
+275,"Crush - Grape, 355 Ml",Quentin Simonson,151.97,5,2020/07/28,332
+276,Cookie Chocolate Chip With,Katina Calf,187.24,9,2020/01/04,868
+277,"Wine - Red, Cabernet Merlot",Pepi Porkiss,238.90,12,2020/09/14,846
+278,Pears - Fiorelle,Baryram Hemshall,880.16,3,2020/11/07,531
+279,Cheese - Mozzarella,Quentin Simonson,182.54,6,2020/09/20,768
+280,Goat - Leg,Katina Calf,103.72,7,2020/09/22,311
+281,Tea - Jasmin Green,Jada Gouch,603.56,1,2020/04/07,980
+282,Godiva White Chocolate,Jada Gouch,929.42,4,2020/04/15,705
+283,Wine - Chablis J Moreau Et Fils,Margi Sarah,495.70,20,2020/06/11,228
+284,Soup - Campbells Mushroom,Silvana Behning,826.01,18,2020/10/10,642
+285,Squash - Butternut,Katina Calf,151.86,5,2020/05/08,381
+286,Beef - Short Loin,Baryram Hemshall,102.98,7,2020/07/23,541
+287,Milk - Condensed,Darell Leatherborrow,589.53,20,2020/05/30,839
+288,"Rum - Dark, Bacardi, Black",Katina Calf,162.70,16,2020/11/10,299
+289,Pastry - Chocolate Marble Tea,Pepi Porkiss,848.17,18,2020/05/30,90
+290,"Lemonade - Black Cherry, 591 Ml",Dallis Penwright,556.08,6,2020/07/14,398
+291,Chocolate - Dark Callets,Katina Calf,932.97,7,2020/07/14,418
+292,Thermometer Digital,Silvana Behning,802.47,18,2020/04/04,685
+293,Wine - Fontanafredda Barolo,Dallis Penwright,908.40,10,2020/05/29,122
+294,Petit Baguette,Dallis Penwright,614.62,15,2020/01/11,295
+295,Wine - Chardonnay South,Darell Leatherborrow,255.25,8,2020/08/31,787
+296,Uniform Linen Charge,Silvana Behning,796.11,7,2020/06/29,988
+297,Appetizer - Mushroom Tart,Silvana Behning,99.93,13,2020/07/05,220
+298,"Mop Head - Cotton, 24 Oz",Katina Calf,630.32,1,2020/05/26,151
+299,Bread - Hamburger Buns,Quentin Simonson,363.23,17,2020/06/28,27
+300,"Soup - Campbells, Lentil",Baryram Hemshall,946.57,18,2020/03/21,38
+301,Truffle Shells - White Chocolate,Katina Calf,715.51,14,2020/08/04,11
+302,Bread - Mini Hamburger Bun,Pepi Porkiss,891.22,11,2020/07/29,647
+303,Cake - Sheet Strawberry,Silvana Behning,670.95,6,2020/06/28,665
+304,"Water - Mineral, Carbonated",Darell Leatherborrow,87.14,8,2020/02/06,358
+305,Wine - Semi Dry Riesling Vineland,Quentin Simonson,569.32,5,2020/01/08,782
+306,Maple Syrup,Katina Calf,262.57,16,2020/05/05,460
+307,Cranberries - Fresh,Darell Leatherborrow,466.33,13,2020/01/15,429
+308,"Pork - Ham, Virginia",Margi Sarah,288.90,20,2020/07/13,36
+309,Remy Red,Quentin Simonson,835.90,17,2020/09/23,977
+310,Rice Wine - Aji Mirin,Margi Sarah,587.75,5,2020/03/08,413
+311,Goat - Leg,Silvana Behning,383.90,14,2020/01/16,17
+312,"Pasta - Penne, Rigate, Dry",Dallis Penwright,836.99,15,2020/03/01,97
+313,V8 - Tropical Blend,Baryram Hemshall,276.10,6,2020/02/07,452
+314,Clam - Cherrystone,Quentin Simonson,237.55,16,2020/05/24,943
+315,Wine - Spumante Bambino White,Baryram Hemshall,931.94,13,2020/03/01,392
+316,Carrots - Jumbo,Hunfredo Lenglet,657.04,18,2020/06/17,691
+317,Chick Peas - Dried,Katina Calf,342.43,5,2020/10/29,883
+318,Crawfish,Dallis Penwright,615.40,12,2020/09/17,164
+319,Sprouts - China Rose,Darell Leatherborrow,949.17,10,2020/07/12,724
+320,Cheese Cloth No 60,Baryram Hemshall,516.58,2,2020/02/22,604
+321,Vaccum Bag - 14x20,Margi Sarah,715.14,14,2020/11/03,960
+322,Thyme - Fresh,Silvana Behning,261.56,14,2020/07/29,43
+323,Bread - Onion Focaccia,Darell Leatherborrow,73.75,3,2020/05/08,47
+324,Amaretto,Baryram Hemshall,689.66,19,2020/04/25,955
+325,Cake - Night And Day Choclate,Margi Sarah,557.43,10,2020/10/25,750
+326,Calvados - Boulard,Katina Calf,918.06,19,2020/06/06,503
+327,Tuna - Sushi Grade,Margi Sarah,869.08,18,2020/01/03,167
+328,Ham - Cooked Bayonne Tinned,Katina Calf,699.70,18,2020/01/29,640
+329,Cheese - Feta,Pepi Porkiss,872.06,13,2020/10/04,105
+330,"Tart Shells - Barquettes, Savory",Hunfredo Lenglet,154.55,5,2020/04/05,382
+331,"Lentils - Green, Dry",Katina Calf,796.68,15,2020/03/16,975
+332,Wine - Soave Folonari,Hunfredo Lenglet,881.23,6,2020/07/05,557
+333,Bread Roll Foccacia,Margi Sarah,496.58,18,2020/04/23,181
+334,Grapes - Green,Baryram Hemshall,440.09,11,2020/10/11,181
+335,Sambuca - Ramazzotti,Pepi Porkiss,803.50,3,2020/09/14,363
+336,Piping - Bags Quizna,Margi Sarah,83.60,12,2020/09/17,795
+337,Sauce - Rosee,Darell Leatherborrow,933.10,3,2020/06/02,367
+338,Smirnoff Green Apple Twist,Quentin Simonson,257.69,15,2020/06/03,834
+339,Cheese - Cheddar With Claret,Jada Gouch,600.15,12,2020/02/15,409
+340,Table Cloth 81x81 White,Dallis Penwright,428.06,13,2020/07/24,232
+341,Tuna - Fresh,Darell Leatherborrow,955.10,4,2020/11/16,832
+342,Chickhen - Chicken Phyllo,Hunfredo Lenglet,843.86,11,2020/07/26,902
+343,Mushroom - White Button,Pepi Porkiss,486.87,20,2020/04/30,452
+344,Swiss Chard,Baryram Hemshall,125.89,11,2020/04/26,366
+345,Cup - Translucent 7 Oz Clear,Darell Leatherborrow,597.47,18,2020/02/20,675
+346,Cheese - Valancey,Pepi Porkiss,562.57,15,2020/11/17,418
+347,Walkers Special Old Whiskey,Jada Gouch,107.17,11,2020/02/03,692
+348,Rosemary - Fresh,Quentin Simonson,438.67,7,2020/06/24,391
+349,Cabbage - Savoy,Margi Sarah,913.14,1,2020/01/20,249
+350,Oil - Sesame,Pepi Porkiss,168.23,8,2020/06/01,523
+351,Pepper - Red Chili,Darell Leatherborrow,552.85,20,2020/09/01,496
+352,"Coconut - Creamed, Pure",Jada Gouch,193.32,13,2020/02/23,437
+353,Bread - Petit Baguette,Jada Gouch,151.25,17,2020/02/18,370
+354,Wine - Pinot Noir Pond Haddock,Dallis Penwright,590.50,11,2020/05/02,345
+355,"Sparkling Wine - Rose, Freixenet",Darell Leatherborrow,743.94,19,2020/04/22,655
+356,Bar Special K,Quentin Simonson,347.20,20,2020/06/21,742
+357,"Shrimp - Baby, Cold Water",Hunfredo Lenglet,369.72,20,2020/01/19,230
+358,"Mushroom - Shitake, Fresh",Katina Calf,113.32,16,2020/07/06,29
+359,Foam Tray S2,Baryram Hemshall,841.24,7,2020/08/07,382
+360,Stainless Steel Cleaner Vision,Quentin Simonson,578.21,19,2020/02/06,1000
+361,"Cheese - Cheddar, Mild",Jada Gouch,345.42,17,2020/05/21,144
+362,Carbonated Water - Wildberry,Dallis Penwright,206.56,2,2020/09/02,697
+363,Macaroons - Homestyle Two Bit,Quentin Simonson,654.24,16,2020/09/06,19
+364,Buttons,Quentin Simonson,420.13,8,2020/02/29,919
+365,Currants,Baryram Hemshall,181.00,5,2020/11/17,439
+366,"Bread - Dark Rye, Loaf",Baryram Hemshall,962.92,7,2020/04/23,68
+367,Artichoke - Fresh,Quentin Simonson,528.20,1,2020/04/09,329
+368,Soup Campbells Beef With Veg,Dallis Penwright,869.73,10,2020/03/20,463
+369,"Artichoke - Bottom, Canned",Jada Gouch,565.46,6,2020/08/12,566
+370,"Glass - Wine, Plastic, Clear 5 Oz",Baryram Hemshall,549.78,12,2020/09/15,855
+371,Amaretto,Dallis Penwright,974.73,20,2020/02/27,251
+372,Trueblue - Blueberry Cranberry,Quentin Simonson,411.43,18,2020/08/14,111
+373,"Nut - Walnut, Pieces",Hunfredo Lenglet,521.64,6,2020/02/03,295
+374,"Jam - Strawberry, 20 Ml Jar",Katina Calf,144.62,1,2020/05/14,974
+375,Sugar - White Packet,Katina Calf,840.44,16,2020/07/30,910
+376,"Pasta - Spaghetti, Dry",Margi Sarah,796.76,8,2020/08/15,828
+377,Lemon Balm - Fresh,Quentin Simonson,676.41,3,2020/02/26,822
+378,Beer - Camerons Cream Ale,Baryram Hemshall,903.92,10,2020/09/11,180
+379,Bread - Hamburger Buns,Pepi Porkiss,733.98,1,2020/02/13,167
+380,Chutney Sauce - Mango,Baryram Hemshall,158.33,1,2020/08/22,617
+381,"Pasta - Fusili, Dry",Baryram Hemshall,403.47,9,2020/01/24,4
+382,Lamb - Whole Head Off,Margi Sarah,500.14,8,2020/04/17,542
+383,Spic And Span All Purpose,Katina Calf,381.88,2,2020/08/20,627
+384,Pork - European Side Bacon,Margi Sarah,716.54,7,2020/01/06,151
+385,Baking Powder,Jada Gouch,463.89,17,2020/09/07,454
+386,Capicola - Hot,Quentin Simonson,243.37,10,2020/11/07,161
+387,Soup Campbells Turkey Veg.,Quentin Simonson,186.67,16,2020/04/29,739
+388,Cheese - Cheddarsliced,Silvana Behning,968.62,14,2020/02/16,316
+389,Lemon Grass,Quentin Simonson,789.95,9,2020/06/02,421
+390,Kumquat,Dallis Penwright,632.79,1,2020/06/28,843
+391,Veal - Striploin,Quentin Simonson,420.63,4,2020/08/14,144
+392,Cookie Dough - Chocolate Chip,Hunfredo Lenglet,208.34,17,2020/03/09,500
+393,Flour - Whole Wheat,Dallis Penwright,241.46,5,2020/08/08,317
+394,"Cheese - Cheddar, Old White",Pepi Porkiss,55.69,12,2020/06/23,868
+395,"Lamb - Whole Head Off,nz",Dallis Penwright,315.76,2,2020/02/01,673
+396,Melon - Honey Dew,Hunfredo Lenglet,586.07,15,2020/09/27,420
+397,Cake - Night And Day Choclate,Darell Leatherborrow,188.47,10,2020/05/31,91
+398,Sole - Iqf,Hunfredo Lenglet,861.79,5,2020/07/30,720
+399,Halibut - Steaks,Margi Sarah,726.51,6,2020/06/19,104
+400,Oil - Shortening - All - Purpose,Hunfredo Lenglet,734.61,7,2020/07/28,504
+401,Fish - Bones,Quentin Simonson,927.45,15,2020/09/08,802
+402,Pimento - Canned,Dallis Penwright,717.65,17,2020/10/24,904
+403,Beer - Pilsner Urquell,Jada Gouch,562.17,7,2020/05/04,446
+404,Broom Handle,Dallis Penwright,748.71,18,2020/07/20,718
+405,Fork - Plastic,Darell Leatherborrow,418.13,12,2020/10/19,332
+406,Okra,Silvana Behning,83.30,8,2020/06/01,821
+407,Lettuce - Curly Endive,Margi Sarah,819.96,15,2020/02/23,176
+408,Soap - Mr.clean Floor Soap,Katina Calf,224.82,9,2020/08/14,553
+409,Venison - Denver Leg Boneless,Darell Leatherborrow,153.67,14,2020/07/02,369
+410,Beer - Mill St Organic,Katina Calf,308.61,2,2020/06/09,815
+411,Wine - Rosso Del Veronese Igt,Hunfredo Lenglet,276.53,19,2020/03/26,470
+412,Potatoes - Idaho 100 Count,Jada Gouch,981.23,3,2020/08/24,680
+413,Rye Special Old,Katina Calf,590.28,17,2020/11/16,580
+414,Wine - Barolo Fontanafredda,Katina Calf,248.08,11,2020/06/27,864
+415,Bacardi Limon,Baryram Hemshall,643.39,13,2020/08/20,537
+416,"Mushroom - Chantrelle, Fresh",Baryram Hemshall,271.82,9,2020/11/03,287
+417,Tuna - Loin,Darell Leatherborrow,711.02,8,2020/01/27,441
+418,"Plate - Foam, Bread And Butter",Dallis Penwright,885.10,10,2020/11/21,557
+419,Pastry - Chocolate Chip Muffin,Baryram Hemshall,437.54,7,2020/11/22,814
+420,Sultanas,Pepi Porkiss,590.68,8,2020/08/13,642
+421,Wine - Magnotta - Cab Franc,Baryram Hemshall,105.62,5,2020/06/13,687
+422,"Wine - White, Concha Y Toro",Pepi Porkiss,733.96,1,2020/01/26,935
+423,Lid Coffeecup 12oz D9542b,Silvana Behning,925.69,8,2020/01/24,277
+424,Red Pepper Paste,Darell Leatherborrow,782.72,4,2020/05/19,562
+425,"Wine - Red, Cabernet Merlot",Silvana Behning,841.68,17,2020/04/18,175
+426,Macaroons - Homestyle Two Bit,Darell Leatherborrow,261.82,9,2020/10/15,939
+427,Snails - Large Canned,Jada Gouch,811.53,18,2020/04/15,78
+428,Pears - Fiorelle,Hunfredo Lenglet,59.31,15,2020/01/09,389
+429,Venison - Denver Leg Boneless,Katina Calf,820.19,18,2020/02/02,859
+430,Oil - Sunflower,Silvana Behning,816.95,11,2020/03/19,681
+431,"Lemonade - Island Tea, 591 Ml",Quentin Simonson,609.57,6,2020/03/13,818
+432,Parsley - Fresh,Dallis Penwright,706.61,12,2020/01/13,701
+433,Tomatoes Tear Drop,Pepi Porkiss,982.77,3,2020/05/13,525
+434,"Veal - Brisket, Provimi, Bone - In",Hunfredo Lenglet,722.16,1,2020/07/22,975
+435,Brandy Cherry - Mcguinness,Dallis Penwright,72.48,3,2020/05/27,124
+436,"Soup - Campbells, Butternut",Silvana Behning,87.88,5,2020/06/13,975
+437,Clams - Canned,Margi Sarah,180.95,8,2020/05/14,250
+438,Cinnamon - Ground,Darell Leatherborrow,141.71,17,2020/11/21,372
+439,Graham Cracker Mix,Hunfredo Lenglet,689.07,20,2020/06/20,623
+440,Pear - Packum,Pepi Porkiss,647.93,2,2020/08/01,6
+441,Oranges,Jada Gouch,999.78,16,2020/01/12,449
+442,Duck - Legs,Hunfredo Lenglet,322.29,6,2020/04/30,292
+443,"Zucchini - Mini, Green",Pepi Porkiss,763.83,18,2020/02/28,572
+444,Instant Coffee,Dallis Penwright,918.93,20,2020/06/02,934
+445,Appetizer - Mango Chevre,Darell Leatherborrow,490.69,12,2020/01/28,668
+446,Island Oasis - Cappucino Mix,Baryram Hemshall,269.84,11,2020/06/10,160
+447,"Wine - Sherry Dry Sack, William",Quentin Simonson,386.17,9,2020/09/27,363
+448,"Soup - Cream Of Broccoli, Dry",Quentin Simonson,692.22,8,2020/01/01,999
+449,Wine - Prosecco Valdobienne,Hunfredo Lenglet,467.12,4,2020/05/28,973
+450,Lychee - Canned,Pepi Porkiss,522.13,11,2020/10/25,264
+451,"Wine - Red, Concha Y Toro",Dallis Penwright,646.18,20,2020/06/01,236
+452,"Turkey - Breast, Smoked",Quentin Simonson,863.96,20,2020/09/20,908
+453,Juice - Apple 284ml,Quentin Simonson,837.29,2,2020/06/14,256
+454,Ice Cream Bar - Rolo Cone,Darell Leatherborrow,382.56,12,2020/06/08,994
+455,"Carrots - Mini, Stem On",Quentin Simonson,664.69,4,2020/01/19,495
+456,Beef - Kobe Striploin,Margi Sarah,288.25,2,2020/06/14,295
+457,"Cherries - Maraschino,jar",Quentin Simonson,880.79,18,2020/05/02,99
+458,Cinnamon Rolls,Silvana Behning,657.91,18,2020/10/14,183
+459,Tart - Lemon,Dallis Penwright,149.28,4,2020/10/02,888
+460,Cheese - Parmigiano Reggiano,Dallis Penwright,262.41,12,2020/11/03,149
+461,"Sprite, Diet - 355ml",Hunfredo Lenglet,221.72,10,2020/06/08,19
+462,"Liqueur Banana, Ramazzotti",Quentin Simonson,878.13,11,2020/11/05,373
+463,"Tortillas - Flour, 10",Darell Leatherborrow,863.87,12,2020/08/03,636
+464,Soup - Campbells Mushroom,Margi Sarah,561.20,10,2020/09/01,49
+465,Eel Fresh,Jada Gouch,991.86,1,2020/04/05,281
+466,Soup Campbells - Italian Wedding,Darell Leatherborrow,195.05,17,2020/07/19,875
+467,Petit Baguette,Baryram Hemshall,161.35,7,2020/10/27,9
+468,Trueblue - Blueberry,Quentin Simonson,945.16,10,2020/09/20,849
+469,Sorrel - Fresh,Jada Gouch,539.20,15,2020/04/25,800
+470,Paper - Brown Paper Mini Cups,Darell Leatherborrow,967.50,17,2020/03/23,474
+471,Mortadella,Baryram Hemshall,699.08,3,2020/07/17,189
+472,Oysters - Smoked,Silvana Behning,163.76,16,2020/08/15,498
+473,"Octopus - Baby, Cleaned",Darell Leatherborrow,351.32,16,2020/02/24,367
+474,Vinegar - White Wine,Hunfredo Lenglet,281.15,1,2020/10/13,37
+475,Fireball Whisky,Darell Leatherborrow,738.29,4,2020/11/02,345
+476,Rice - Sushi,Quentin Simonson,121.03,5,2020/02/24,390
+477,"Juice - Tomato, 48 Oz",Katina Calf,189.29,13,2020/09/30,459
+478,Bulgar,Margi Sarah,418.59,1,2020/04/07,879
+479,Onions - Red,Silvana Behning,894.97,3,2020/10/30,635
+480,Miso - Soy Bean Paste,Hunfredo Lenglet,521.98,3,2020/11/16,660
+481,Silicone Parch. 16.3x24.3,Quentin Simonson,450.19,18,2020/09/15,659
+482,Broccoli - Fresh,Margi Sarah,842.36,5,2020/09/13,485
+483,Ice Cream Bar - Hagen Daz,Baryram Hemshall,615.66,8,2020/07/13,344
+484,Versatainer Nc - 888,Quentin Simonson,592.58,17,2020/02/28,356
+485,Leeks - Large,Jada Gouch,325.95,16,2020/04/30,236
+486,Gherkin - Sour,Pepi Porkiss,73.82,6,2020/08/27,884
+487,Beef - Striploin,Darell Leatherborrow,365.40,14,2020/06/01,616
+488,Duck - Legs,Katina Calf,314.47,16,2020/07/01,498
+489,"Syrup - Golden, Lyles",Quentin Simonson,859.20,12,2020/02/22,179
+490,Beef - Cow Feet Split,Margi Sarah,756.71,11,2020/03/29,311
+491,Longos - Lasagna Veg,Baryram Hemshall,662.79,16,2020/07/29,828
+492,Cactus Pads,Hunfredo Lenglet,393.68,11,2020/08/01,35
+493,Tea - Apple Green Tea,Dallis Penwright,774.27,9,2020/02/08,776
+494,White Baguette,Quentin Simonson,59.09,13,2020/04/13,43
+495,"Quail - Eggs, Fresh",Katina Calf,450.18,7,2020/04/03,704
+496,"Wine - Niagara,vqa Reisling",Hunfredo Lenglet,868.12,13,2020/08/08,570
+497,Cardamon Ground,Darell Leatherborrow,640.29,20,2020/01/23,903
+498,Gatorade - Cool Blue Raspberry,Pepi Porkiss,774.92,12,2020/09/05,253
+499,Cheese - Pont Couvert,Quentin Simonson,966.95,8,2020/05/06,956
+500,Cookies - Englishbay Oatmeal,Silvana Behning,940.12,1,2020/03/08,693
+501,Corn Meal,Silvana Behning,651.43,4,2020/04/08,540
+502,Huck Towels White,Quentin Simonson,235.78,1,2020/02/11,671
+503,Lettuce - Boston Bib,Katina Calf,639.30,12,2020/07/02,833
+504,Stock - Fish,Silvana Behning,91.06,8,2020/01/27,738
+505,Gatorade - Xfactor Berry,Jada Gouch,690.69,1,2020/09/22,515
+506,Guinea Fowl,Dallis Penwright,508.66,14,2020/09/17,811
+507,"Fish - Base, Bouillion",Margi Sarah,508.41,18,2020/09/23,673
+508,"Roe - Lump Fish, Red",Baryram Hemshall,870.85,5,2020/11/14,399
+509,Crackers - Trio,Darell Leatherborrow,293.79,9,2020/05/21,584
+510,Cookies - Englishbay Wht,Hunfredo Lenglet,840.99,5,2020/08/22,960
+511,Muffin Puck Ww Carrot,Margi Sarah,433.39,19,2020/11/15,156
+512,"Pasta - Elbows, Macaroni, Dry",Quentin Simonson,569.28,6,2020/11/02,515
+513,Bread - Malt,Silvana Behning,630.85,7,2020/04/26,566
+514,Glass Clear 8 Oz,Jada Gouch,703.56,18,2020/05/11,342
+515,Sambuca Cream,Baryram Hemshall,234.66,13,2020/11/03,728
+516,Sausage - Meat,Baryram Hemshall,681.76,18,2020/01/28,595
+517,"Nut - Almond, Blanched, Ground",Darell Leatherborrow,414.57,4,2020/06/25,38
+518,Longos - Chicken Caeser Salad,Silvana Behning,480.25,14,2020/09/08,915
+519,Bread - Hamburger Buns,Dallis Penwright,189.04,4,2020/01/03,159
+520,Cake - Cheese Cake 9 Inch,Silvana Behning,359.60,2,2020/04/18,150
+521,"Mushroom - Chantrelle, Fresh",Jada Gouch,707.47,1,2020/01/25,58
+522,Cup - Translucent 7 Oz Clear,Katina Calf,980.37,8,2020/10/26,748
+523,Basil - Seedlings Cookstown,Hunfredo Lenglet,785.76,16,2020/01/20,756
+524,Cheese - Swiss,Katina Calf,87.34,13,2020/04/13,130
+525,Coffee - Almond Amaretto,Baryram Hemshall,537.29,10,2020/07/08,459
+526,Guava,Hunfredo Lenglet,382.13,5,2020/01/01,189
+527,Crab - Meat,Pepi Porkiss,127.30,8,2020/09/24,891
+528,Cake - Mini Cheesecake,Baryram Hemshall,830.23,3,2020/02/14,497
+529,Chicken - Tenderloin,Darell Leatherborrow,404.15,5,2020/05/10,357
+530,Pastry - Mini French Pastries,Quentin Simonson,62.89,7,2020/01/02,639
+531,"Soup - Knorr, Veg / Beef",Jada Gouch,251.13,8,2020/11/12,605
+532,Syrup - Pancake,Baryram Hemshall,766.06,1,2020/02/12,289
+533,Wine - Placido Pinot Grigo,Jada Gouch,861.63,7,2020/09/19,95
+534,Cookies - Englishbay Wht,Pepi Porkiss,702.61,11,2020/03/14,228
+535,Lemon Pepper,Pepi Porkiss,644.40,20,2020/10/31,660
+536,Coffee - Decaffeinato Coffee,Darell Leatherborrow,249.27,12,2020/07/13,330
+537,Vaccum Bag 10x13,Silvana Behning,946.63,12,2020/09/19,570
+538,Foil - Round Foil,Margi Sarah,54.39,16,2020/09/10,54
+539,Skewers - Bamboo,Quentin Simonson,616.98,18,2020/09/05,59
+540,Liquid Aminios Acid - Braggs,Hunfredo Lenglet,811.68,8,2020/03/09,815
+541,Pur Source,Silvana Behning,690.78,19,2020/05/13,714
+542,Bread - Kimel Stick Poly,Jada Gouch,918.99,9,2020/02/15,837
+543,Cookies - Assorted,Quentin Simonson,322.04,13,2020/10/22,35
+544,"Salmon - Smoked, Sliced",Darell Leatherborrow,330.79,20,2020/04/09,450
+545,Longos - Grilled Chicken With,Dallis Penwright,140.51,20,2020/01/08,218
+546,Wine - Duboeuf Beaujolais,Jada Gouch,416.63,14,2020/02/26,871
+547,Appetizer - Shrimp Puff,Darell Leatherborrow,862.62,17,2020/03/20,797
+548,Sugar - Individual Portions,Jada Gouch,317.75,1,2020/05/17,525
+549,Towel Dispenser,Margi Sarah,244.25,12,2020/01/04,117
+550,Wine - Domaine Boyar Royal,Katina Calf,308.65,17,2020/05/14,80
+551,"Shrimp - 16/20, Iqf, Shell On",Hunfredo Lenglet,150.86,1,2020/09/28,223
+552,Wine - Vovray Sec Domaine Huet,Dallis Penwright,109.25,14,2020/02/18,505
+553,Table Cloth 53x69 White,Darell Leatherborrow,496.82,7,2020/06/27,290
+554,"Pasta - Detalini, White, Fresh",Margi Sarah,643.47,13,2020/08/28,400
+555,Venison - Striploin,Hunfredo Lenglet,302.33,3,2020/01/26,995
+556,Bagel - 12 Grain Preslice,Quentin Simonson,779.32,14,2020/08/05,331
+557,Beer - Guiness,Margi Sarah,322.95,11,2020/04/17,332
+558,Banana,Quentin Simonson,634.12,12,2020/08/06,632
+559,Grouper - Fresh,Silvana Behning,763.71,18,2020/09/06,117
+560,Mushroom - Portebello,Pepi Porkiss,226.60,20,2020/04/30,715
+561,Gelatine Leaves - Envelopes,Baryram Hemshall,214.34,7,2020/05/09,33
+562,Flour - Whole Wheat,Margi Sarah,594.68,1,2020/04/25,214
+563,Vaccum Bag 10x13,Katina Calf,57.26,13,2020/01/16,779
+564,"Wine - Magnotta, White",Quentin Simonson,694.85,4,2020/09/19,939
+565,Bagel - 12 Grain Preslice,Pepi Porkiss,271.59,8,2020/10/13,96
+566,Potatoes - Pei 10 Oz,Jada Gouch,851.80,14,2020/01/05,306
+567,Cafe Royale,Quentin Simonson,103.29,18,2020/05/16,534
+568,"Juice - Grape, White",Margi Sarah,303.72,1,2020/04/13,868
+569,Wine - Mondavi Coastal Private,Quentin Simonson,870.78,9,2020/05/04,103
+570,"Nestea - Ice Tea, Diet",Quentin Simonson,927.13,13,2020/07/15,640
+571,Shrimp - Tiger 21/25,Dallis Penwright,934.73,17,2020/09/05,569
+572,Melon - Cantaloupe,Dallis Penwright,781.75,6,2020/09/17,227
+573,"Nut - Walnut, Chopped",Katina Calf,584.45,10,2020/04/02,927
+574,Hagen Daza - Dk Choocolate,Quentin Simonson,569.19,3,2020/01/01,267
+575,Salt - Celery,Dallis Penwright,184.32,3,2020/05/07,237
+576,Chocolate - Milk,Silvana Behning,866.93,15,2020/05/17,693
+577,Munchies Honey Sweet Trail Mix,Darell Leatherborrow,607.19,16,2020/05/28,310
+578,Tea - Green,Hunfredo Lenglet,210.48,19,2020/06/12,998
+579,Yogurt - Plain,Baryram Hemshall,131.80,13,2020/08/22,221
+580,Wine - Casillero Del Diablo,Darell Leatherborrow,454.81,2,2020/07/30,798
+581,"Wine - White, Colubia Cresh",Jada Gouch,847.32,3,2020/06/28,14
+582,Soup Bowl Clear 8oz92008,Baryram Hemshall,316.67,7,2020/04/20,120
+583,"Mushroom - Enoki, Dry",Margi Sarah,126.96,5,2020/11/15,766
+584,Carrots - Mini Red Organic,Darell Leatherborrow,935.57,7,2020/08/24,591
+585,Chips - Potato Jalapeno,Darell Leatherborrow,488.39,10,2020/11/01,549
+586,Squash - Sunburst,Silvana Behning,105.09,16,2020/08/13,138
+587,Muskox - French Rack,Hunfredo Lenglet,475.09,8,2020/01/20,487
+588,"Pork - Butt, Boneless",Quentin Simonson,463.17,9,2020/04/02,136
+589,English Muffin,Silvana Behning,578.58,6,2020/01/02,651
+590,Longos - Lasagna Veg,Silvana Behning,112.19,8,2020/03/15,160
+591,Pectin,Darell Leatherborrow,328.21,3,2020/07/12,541
+592,Chicken - Tenderloin,Darell Leatherborrow,140.12,4,2020/02/12,481
+593,Lamb - Bones,Margi Sarah,863.92,19,2020/02/20,901
+594,Greens Mustard,Baryram Hemshall,592.72,1,2020/02/24,865
+595,"Garlic - Primerba, Paste",Baryram Hemshall,191.96,20,2020/08/12,59
+596,Tea - Lemon Green Tea,Quentin Simonson,995.25,15,2020/03/17,970
+597,Wine - Chianti Classico Riserva,Dallis Penwright,414.05,3,2020/03/16,814
+598,Sea Urchin,Hunfredo Lenglet,860.00,7,2020/03/12,775
+599,Swordfish Loin Portions,Jada Gouch,483.02,6,2020/09/02,317
+600,Garam Masala Powder,Silvana Behning,421.64,17,2020/03/19,223
+601,Lemonade - Pineapple Passion,Quentin Simonson,983.32,2,2020/07/11,269
+602,Brandy Apricot,Dallis Penwright,543.40,19,2020/06/01,905
+603,"Fish - Soup Base, Bouillon",Darell Leatherborrow,304.11,11,2020/07/05,64
+604,Transfer Sheets,Hunfredo Lenglet,842.96,17,2020/06/06,312
+605,Lemonade - Pineapple Passion,Darell Leatherborrow,997.45,12,2020/11/23,717
+606,Pepper Squash,Darell Leatherborrow,872.95,1,2020/02/13,75
+607,Squid Ink,Dallis Penwright,448.94,2,2020/03/16,172
+608,"Tart Shells - Barquettes, Savory",Katina Calf,218.88,9,2020/05/24,900
+609,Blackberries,Baryram Hemshall,246.34,9,2020/11/16,28
+610,Cream - 35%,Darell Leatherborrow,238.22,10,2020/10/30,374
+611,Curry Paste - Madras,Hunfredo Lenglet,699.57,15,2020/11/05,206
+612,Wine - Casillero Del Diablo,Jada Gouch,458.03,6,2020/07/21,639
+613,Soup Campbells - Italian Wedding,Pepi Porkiss,897.12,1,2020/04/18,836
+614,Pastry - Banana Tea Loaf,Baryram Hemshall,959.61,1,2020/09/26,193
+615,Pork - Kidney,Darell Leatherborrow,130.45,9,2020/08/13,183
+616,Foil - 4oz Custard Cup,Dallis Penwright,879.42,18,2020/03/19,321
+617,Lychee - Canned,Baryram Hemshall,380.30,11,2020/04/22,917
+618,Wine - Gewurztraminer Pierre,Hunfredo Lenglet,620.82,9,2020/05/28,337
+619,Hersey Shakes,Quentin Simonson,60.54,11,2020/04/16,705
+620,Onions - Cippolini,Dallis Penwright,288.92,1,2020/05/27,318
+621,Celery,Baryram Hemshall,658.52,19,2020/01/23,755
+622,Wine - Valpolicella Masi,Baryram Hemshall,614.66,15,2020/07/23,203
+623,Puree - Mocha,Dallis Penwright,863.56,14,2020/10/14,664
+624,Puree - Passion Fruit,Pepi Porkiss,97.54,17,2020/11/02,309
+625,Beans - French,Dallis Penwright,895.86,1,2020/07/23,950
+626,Hot Choc Vending,Hunfredo Lenglet,409.52,7,2020/06/12,447
+627,Urban Zen Drinks,Silvana Behning,499.00,18,2020/05/07,355
+628,"Tortillas - Flour, 8",Pepi Porkiss,766.88,10,2020/03/24,889
+629,Eggplant Italian,Katina Calf,488.76,19,2020/10/18,760
+630,Rum - Mount Gay Eclipes,Darell Leatherborrow,320.62,13,2020/04/23,750
+631,Flour - So Mix Cake White,Silvana Behning,242.55,10,2020/08/09,902
+632,Sobe - Cranberry Grapefruit,Margi Sarah,992.36,4,2020/08/28,81
+633,Wine - Conde De Valdemar,Jada Gouch,981.43,3,2020/01/13,80
+634,Muffin - Banana Nut Individual,Quentin Simonson,506.85,14,2020/09/26,418
+635,Appetizer - Lobster Phyllo Roll,Baryram Hemshall,106.60,15,2020/04/12,578
+636,Spinach - Baby,Pepi Porkiss,781.48,1,2020/02/28,165
+637,Dried Peach,Darell Leatherborrow,359.14,14,2020/10/29,817
+638,"Brandy - Orange, Mc Guiness",Katina Calf,701.63,13,2020/08/31,231
+639,"Chilli Paste, Sambal Oelek",Quentin Simonson,506.82,1,2020/04/28,274
+640,Sage - Rubbed,Hunfredo Lenglet,884.55,11,2020/06/03,681
+641,Sproutsmustard Cress,Margi Sarah,842.74,1,2020/09/06,102
+642,"Beans - Black Bean, Dry",Hunfredo Lenglet,851.87,1,2020/01/04,77
+643,Lemons,Baryram Hemshall,456.82,9,2020/07/01,775
+644,Pork - Bones,Pepi Porkiss,513.76,11,2020/04/07,744
+645,Soup - Campbells - Tomato,Hunfredo Lenglet,106.77,7,2020/03/13,892
+646,Hot Choc Vending,Baryram Hemshall,933.83,1,2020/03/01,68
+647,Chinese Foods - Chicken,Pepi Porkiss,78.61,1,2020/10/20,144
+648,Shark - Loin,Margi Sarah,869.03,18,2020/07/10,781
+649,Wine - Savigny - Les - Beaune,Margi Sarah,289.95,3,2020/10/19,272
+650,Bar Mix - Lemon,Quentin Simonson,384.50,11,2020/07/01,294
+651,Pie Box - Cello Window 2.5,Dallis Penwright,134.68,4,2020/07/07,842
+652,"Tuna - Canned, Flaked, Light",Baryram Hemshall,313.58,19,2020/09/30,130
+653,Brandy Cherry - Mcguinness,Dallis Penwright,360.09,1,2020/10/05,161
+654,"Pasta - Fettuccine, Egg, Fresh",Quentin Simonson,217.10,2,2020/03/28,474
+655,"Lemonade - Mandarin, 591 Ml",Silvana Behning,341.32,20,2020/03/26,576
+656,"Wine - White, Ej",Margi Sarah,333.10,11,2020/09/28,795
+657,Pasta - Cheese / Spinach Bauletti,Baryram Hemshall,399.43,7,2020/07/04,443
+658,"Cod - Salted, Boneless",Margi Sarah,234.68,4,2020/11/01,154
+659,Maple Syrup,Pepi Porkiss,50.63,20,2020/02/12,624
+660,"Tortillas - Flour, 8",Pepi Porkiss,821.34,5,2020/03/13,298
+661,Cake - Night And Day Choclate,Katina Calf,171.96,14,2020/09/10,518
+662,Soup - Campbells Bean Medley,Darell Leatherborrow,836.46,11,2020/01/02,757
+663,"Wine - White, Lindemans Bin 95",Katina Calf,415.69,11,2020/02/24,791
+664,Bandage - Flexible Neon,Silvana Behning,910.17,11,2020/09/14,730
+665,Muskox - French Rack,Hunfredo Lenglet,292.12,16,2020/05/18,851
+666,"Pasta - Fettuccine, Dry",Jada Gouch,715.15,2,2020/10/26,533
+667,Ecolab - Hobart Upr Prewash Arm,Dallis Penwright,321.17,1,2020/05/27,989
+668,"Wine - Red, Marechal Foch",Margi Sarah,502.47,2,2020/06/10,459
+669,Cake - Sheet Strawberry,Baryram Hemshall,529.89,18,2020/09/15,660
+670,Corn Syrup,Hunfredo Lenglet,355.40,13,2020/06/25,24
+671,Corn - On The Cob,Silvana Behning,537.66,12,2020/07/28,367
+672,Bread - Onion Focaccia,Pepi Porkiss,503.02,15,2020/07/13,992
+673,Gatorade - Xfactor Berry,Baryram Hemshall,320.56,11,2020/09/15,899
+674,Longos - Cheese Tortellini,Quentin Simonson,510.38,17,2020/01/10,92
+675,"Olives - Black, Pitted",Jada Gouch,631.21,12,2020/08/26,313
+676,Mini - Vol Au Vents,Darell Leatherborrow,456.04,18,2020/11/10,767
+677,Liquid Aminios Acid - Braggs,Quentin Simonson,710.82,20,2020/09/03,822
+678,Sprouts - Brussel,Hunfredo Lenglet,175.91,14,2020/01/15,179
+679,Bread Foccacia Whole,Jada Gouch,735.83,17,2020/06/26,553
+680,"Lentils - Red, Dry",Jada Gouch,986.26,8,2020/08/20,7
+681,Coffee Cup 16oz Foam,Katina Calf,692.96,6,2020/01/10,440
+682,Dooleys Toffee,Quentin Simonson,192.93,18,2020/05/18,882
+683,Potatoes - Fingerling 4 Oz,Quentin Simonson,537.63,8,2020/06/13,711
+684,"Cheese - Brie, Triple Creme",Katina Calf,813.39,13,2020/07/28,223
+685,Water - San Pellegrino,Silvana Behning,687.10,12,2020/01/02,523
+686,Salt And Pepper Mix - Black,Baryram Hemshall,437.55,14,2020/09/09,869
+687,V8 - Berry Blend,Darell Leatherborrow,244.43,11,2020/07/03,690
+688,Bacardi Breezer - Tropical,Jada Gouch,473.31,18,2020/01/21,627
+689,Ecolab - Balanced Fusion,Darell Leatherborrow,878.88,3,2020/07/22,413
+690,Carbonated Water - Strawberry,Dallis Penwright,629.84,16,2020/08/03,413
+691,Spinach - Packaged,Jada Gouch,293.97,16,2020/04/20,408
+692,Flower - Leather Leaf Fern,Dallis Penwright,974.17,5,2020/02/01,43
+693,Butter Balls Salted,Pepi Porkiss,886.07,6,2020/07/25,9
+694,Noodles - Steamed Chow Mein,Quentin Simonson,929.64,4,2020/06/12,936
+695,Sambuca - Opal Nera,Dallis Penwright,478.30,13,2020/10/16,425
+696,Sauce - Oyster,Darell Leatherborrow,634.57,2,2020/09/23,194
+697,Vinegar - Sherry,Margi Sarah,911.81,10,2020/02/16,574
+698,"Yogurt - Banana, 175 Gr",Hunfredo Lenglet,550.42,1,2020/07/25,881
+699,"Pasta - Fett Alfredo, Single Serve",Baryram Hemshall,881.55,20,2020/05/15,53
+700,Wine - Soave Folonari,Jada Gouch,568.22,9,2020/03/22,592
+701,Wine - Segura Viudas Aria Brut,Margi Sarah,156.60,2,2020/03/07,461
+702,Table Cloth 62x114 Colour,Dallis Penwright,372.80,8,2020/09/02,16
+703,Squid - Tubes / Tenticles 10/20,Dallis Penwright,223.29,19,2020/02/22,751
+704,Cake - Sheet Strawberry,Pepi Porkiss,484.75,14,2020/07/20,636
+705,Wine - Vouvray Cuvee Domaine,Katina Calf,765.26,4,2020/11/05,347
+706,Langers - Cranberry Cocktail,Katina Calf,670.03,7,2020/02/24,916
+707,Cheese - Bakers Cream Cheese,Quentin Simonson,875.98,17,2020/08/06,628
+708,Snapple - Iced Tea Peach,Margi Sarah,287.55,19,2020/05/09,516
+709,"Chestnuts - Whole,canned",Quentin Simonson,493.30,1,2020/10/30,185
+710,Yucca,Hunfredo Lenglet,682.37,20,2020/05/20,747
+711,Coriander - Seed,Darell Leatherborrow,971.79,19,2020/08/27,628
+712,Sprouts Dikon,Jada Gouch,791.52,19,2020/09/14,683
+713,Nut - Macadamia,Dallis Penwright,890.89,6,2020/08/30,898
+714,Flour - Chickpea,Quentin Simonson,879.83,7,2020/01/20,452
+715,Beer - Blue,Dallis Penwright,207.85,3,2020/06/21,850
+716,Curry Powder,Dallis Penwright,560.25,10,2020/05/12,959
+717,Mushroom - White Button,Dallis Penwright,301.57,15,2020/08/02,417
+718,Ham - Proscuitto,Katina Calf,76.99,12,2020/09/18,345
+719,Yucca,Hunfredo Lenglet,306.00,1,2020/07/23,730
+720,Sour Puss Sour Apple,Silvana Behning,918.83,9,2020/06/09,22
+721,Glass Clear 7 Oz Xl,Katina Calf,517.87,16,2020/09/18,960
+722,"Veal - Brisket, Provimi,bnls",Dallis Penwright,293.36,12,2020/05/11,569
+723,Flavouring - Raspberry,Pepi Porkiss,822.04,19,2020/10/02,97
+724,Bagelers,Katina Calf,463.42,16,2020/11/21,378
+725,Ham Black Forest,Margi Sarah,220.72,2,2020/03/14,937
+726,Puree - Blackcurrant,Hunfredo Lenglet,123.33,3,2020/09/01,690
+727,Salt And Pepper Mix - Black,Jada Gouch,669.02,4,2020/08/21,332
+728,"Ham - Smoked, Bone - In",Dallis Penwright,169.62,17,2020/03/10,557
+729,Clams - Canned,Jada Gouch,971.11,16,2020/05/29,341
+730,Wine - Balbach Riverside,Margi Sarah,494.30,6,2020/04/20,264
+731,Wine - Ruffino Chianti Classico,Silvana Behning,935.79,6,2020/09/22,495
+732,Gelatine Leaves - Envelopes,Katina Calf,455.34,4,2020/08/31,860
+733,Wakami Seaweed,Darell Leatherborrow,441.95,18,2020/04/11,831
+734,Herb Du Provence - Primerba,Silvana Behning,441.17,9,2020/08/07,41
+735,Salt - Kosher,Baryram Hemshall,485.98,17,2020/02/26,860
+736,Temperature Recording Station,Darell Leatherborrow,911.28,13,2020/02/07,605
+737,Ham - Procutinni,Baryram Hemshall,90.22,16,2020/08/04,992
+738,"Stock - Chicken, White",Pepi Porkiss,203.60,14,2020/03/05,543
+739,Bread Base - Goodhearth,Jada Gouch,803.46,15,2020/01/01,379
+740,Cinnamon Buns Sticky,Margi Sarah,694.34,5,2020/02/11,854
+741,Wasabi Paste,Hunfredo Lenglet,366.19,18,2020/03/12,326
+742,Table Cloth 90x90 Colour,Katina Calf,97.48,10,2020/08/19,242
+743,Zucchini - Yellow,Margi Sarah,641.02,6,2020/01/20,848
+744,Artichokes - Jerusalem,Quentin Simonson,854.08,16,2020/11/12,960
+745,"Bread - Roll, Calabrese",Hunfredo Lenglet,523.13,1,2020/09/22,204
+746,Muffin Puck Ww Carrot,Katina Calf,893.77,12,2020/04/23,267
+747,Canada Dry,Katina Calf,978.95,16,2020/11/11,506
+748,"Pork - Loin, Center Cut",Quentin Simonson,68.32,6,2020/06/29,738
+749,"Olives - Black, Pitted",Baryram Hemshall,117.90,8,2020/03/28,608
+750,Muffin Chocolate Individual Wrap,Dallis Penwright,706.69,19,2020/01/30,612
+751,Onions - Cippolini,Darell Leatherborrow,353.59,13,2020/08/05,502
+752,"Beef - Tenderlion, Center Cut",Jada Gouch,138.87,4,2020/09/11,834
+753,"Oranges - Navel, 72",Darell Leatherborrow,98.51,6,2020/10/05,966
+754,Sage - Ground,Quentin Simonson,388.73,19,2020/02/23,431
+755,Island Oasis - Raspberry,Hunfredo Lenglet,125.34,20,2020/10/31,957
+756,Lychee - Canned,Baryram Hemshall,769.86,14,2020/09/21,550
+757,Carbonated Water - Strawberry,Jada Gouch,838.39,10,2020/11/22,325
+758,Milk 2% 500 Ml,Jada Gouch,232.38,2,2020/06/04,454
+759,Lady Fingers,Quentin Simonson,192.02,11,2020/01/04,53
+760,Lemons,Dallis Penwright,208.95,17,2020/09/12,119
+761,Cheese - Gouda Smoked,Silvana Behning,173.95,13,2020/10/02,40
+762,Myers Planters Punch,Katina Calf,893.12,6,2020/11/12,936
+763,Corn Meal,Darell Leatherborrow,736.12,4,2020/03/15,323
+764,Red Currant Jelly,Quentin Simonson,586.83,11,2020/08/19,675
+765,Pork - Shoulder,Katina Calf,269.33,20,2020/02/05,942
+766,Island Oasis - Raspberry,Darell Leatherborrow,601.52,18,2020/10/22,607
+767,Worcestershire Sauce,Jada Gouch,563.48,12,2020/04/10,445
+768,"Lamb - Leg, Boneless",Silvana Behning,155.36,15,2020/07/22,864
+769,"Capon - Breast, Double, Wing On",Baryram Hemshall,84.21,19,2020/04/11,399
+770,"Wine - Red, Harrow Estates, Cab",Dallis Penwright,947.80,17,2020/01/16,454
+771,"Pasta - Penne Primavera, Single",Hunfredo Lenglet,689.30,18,2020/03/01,352
+772,Truffle - Whole Black Peeled,Katina Calf,780.77,11,2020/07/25,992
+773,"Lemonade - Mandarin, 591 Ml",Margi Sarah,274.55,8,2020/04/29,411
+774,Cheese - Parmesan Grated,Darell Leatherborrow,296.89,20,2020/05/21,104
+775,Spaghetti Squash,Jada Gouch,79.47,7,2020/07/23,478
+776,"Coke - Classic, 355 Ml",Jada Gouch,878.53,3,2020/07/30,439
+777,Grapes - Green,Hunfredo Lenglet,684.59,6,2020/09/24,645
+778,White Baguette,Silvana Behning,777.12,6,2020/04/25,648
+779,"Nestea - Ice Tea, Diet",Baryram Hemshall,638.67,15,2020/08/06,632
+780,Cheese - Feta,Jada Gouch,895.43,12,2020/05/09,257
+781,Jello - Assorted,Hunfredo Lenglet,405.61,7,2020/06/24,749
+782,"Onions - Dried, Chopped",Katina Calf,57.07,15,2020/08/16,76
+783,Puree - Raspberry,Baryram Hemshall,844.04,1,2020/09/11,658
+784,Island Oasis - Wildberry,Hunfredo Lenglet,271.07,2,2020/08/05,457
+785,Food Colouring - Orange,Margi Sarah,723.02,3,2020/05/15,929
+786,"Lamb - Whole Head Off,nz",Dallis Penwright,496.05,4,2020/10/26,571
+787,"Pork - Bacon, Sliced",Quentin Simonson,797.57,17,2020/03/17,279
+788,Crab - Imitation Flakes,Jada Gouch,990.38,11,2020/11/01,148
+789,Ham - Virginia,Pepi Porkiss,863.98,16,2020/07/14,749
+790,"Stock - Chicken, White",Jada Gouch,780.43,13,2020/11/15,389
+791,"Chilli Paste, Sambal Oelek",Darell Leatherborrow,683.07,6,2020/02/17,770
+792,Creme De Cacao White,Pepi Porkiss,122.96,1,2020/01/17,568
+793,Steampan - Half Size Shallow,Jada Gouch,600.16,5,2020/03/20,763
+794,Table Cloth 62x114 White,Jada Gouch,199.46,9,2020/08/28,531
+795,"Oil - Olive, Extra Virgin",Darell Leatherborrow,619.96,3,2020/07/28,364
+796,Langers - Mango Nectar,Quentin Simonson,628.42,15,2020/02/16,1
+797,Lotus Rootlets - Canned,Baryram Hemshall,205.13,7,2020/05/14,158
+798,"Chilli Paste, Ginger Garlic",Margi Sarah,784.55,5,2020/04/11,64
+799,"Pork - Sausage, Medium",Hunfredo Lenglet,424.30,13,2020/09/25,437
+800,Bagelers - Cinn / Brown Sugar,Dallis Penwright,699.98,20,2020/04/10,59
+801,Kiwi,Dallis Penwright,69.39,4,2020/08/21,924
+802,Rice - Jasmine Sented,Darell Leatherborrow,818.60,11,2020/09/20,335
+803,V8 - Vegetable Cocktail,Silvana Behning,980.09,18,2020/09/25,537
+804,Lotus Leaves,Pepi Porkiss,110.72,10,2020/09/17,958
+805,Soup - Campbells Pasta Fagioli,Baryram Hemshall,582.91,6,2020/02/19,630
+806,Wine - Casablanca Valley,Jada Gouch,644.45,7,2020/09/28,631
+807,Chips - Potato Jalapeno,Darell Leatherborrow,606.22,19,2020/03/09,88
+808,"Crush - Grape, 355 Ml",Jada Gouch,547.40,7,2020/03/19,207
+809,"Coconut - Creamed, Pure",Margi Sarah,720.66,4,2020/02/04,525
+810,Coffee - Dark Roast,Darell Leatherborrow,134.78,10,2020/04/12,720
+811,Chick Peas - Dried,Margi Sarah,502.12,17,2020/07/08,905
+812,Spice - Peppercorn Melange,Margi Sarah,271.50,15,2020/09/03,396
+813,Creme De Cacao Mcguines,Silvana Behning,484.30,12,2020/08/31,616
+814,"Quail - Whole, Boneless",Margi Sarah,754.99,7,2020/07/30,481
+815,Quail - Jumbo Boneless,Darell Leatherborrow,226.01,8,2020/02/24,940
+816,Capicola - Hot,Margi Sarah,504.71,12,2020/05/22,273
+817,Curry Powder,Baryram Hemshall,421.68,12,2020/06/30,300
+818,Cheese - Cream Cheese,Baryram Hemshall,542.90,4,2020/04/27,528
+819,Wine - Marlbourough Sauv Blanc,Quentin Simonson,513.14,19,2020/08/26,636
+820,Sauce Bbq Smokey,Margi Sarah,59.07,5,2020/04/20,909
+821,"Syrup - Golden, Lyles",Dallis Penwright,982.44,19,2020/07/02,613
+822,"Halibut - Whole, Fresh",Quentin Simonson,602.85,8,2020/05/30,607
+823,"Veal - Leg, Provimi - 50 Lb Max",Hunfredo Lenglet,535.74,9,2020/03/07,140
+824,Juice - Ocean Spray Cranberry,Silvana Behning,625.67,4,2020/11/04,623
+825,Wine - Crozes Hermitage E.,Margi Sarah,180.94,12,2020/05/23,905
+826,Tomatoes Tear Drop Yellow,Hunfredo Lenglet,237.12,11,2020/09/25,228
+827,Fudge - Cream Fudge,Dallis Penwright,170.79,11,2020/04/21,178
+828,Pie Shells 10,Dallis Penwright,578.83,1,2020/09/09,501
+829,Salad Dressing,Hunfredo Lenglet,116.51,10,2020/10/13,725
+830,Meldea Green Tea Liquor,Katina Calf,481.79,7,2020/10/18,736
+831,Ice Cream - Vanilla,Margi Sarah,688.81,16,2020/03/01,846
+832,"Wine - Red, Cooking",Silvana Behning,714.37,4,2020/02/07,168
+833,Gloves - Goldtouch Disposable,Silvana Behning,632.55,3,2020/02/15,611
+834,Sorrel - Fresh,Quentin Simonson,517.76,2,2020/11/18,959
+835,Chocolate - White,Darell Leatherborrow,992.49,20,2020/01/14,269
+836,Sobe - Liz Blizz,Silvana Behning,441.09,18,2020/05/15,202
+837,"Sauce - Apple, Unsweetened",Jada Gouch,728.36,19,2020/09/16,809
+838,Muffin - Banana Nut Individual,Katina Calf,849.24,4,2020/09/13,90
+839,Coffee Cup 8oz 5338cd,Hunfredo Lenglet,635.58,20,2020/06/05,487
+840,Sauce Bbq Smokey,Dallis Penwright,157.15,14,2020/07/25,417
+841,Wine - Peller Estates Late,Darell Leatherborrow,124.22,6,2020/06/13,16
+842,Swiss Chard - Red,Katina Calf,74.40,5,2020/02/02,449
+843,Cakes Assorted,Dallis Penwright,242.44,1,2020/02/13,391
+844,"Appetizer - Spring Roll, Veg",Dallis Penwright,880.59,19,2020/08/14,36
+845,"Soda Water - Club Soda, 355 Ml",Hunfredo Lenglet,296.09,4,2020/06/16,147
+846,Veal - Sweetbread,Hunfredo Lenglet,215.97,9,2020/08/22,286
+847,"Lentils - Red, Dry",Jada Gouch,968.28,17,2020/05/29,558
+848,Ice Cream - Super Sandwich,Katina Calf,924.82,17,2020/07/13,550
+849,Energy Drink,Pepi Porkiss,558.36,20,2020/04/28,319
+850,Huck Towels White,Margi Sarah,209.72,6,2020/11/23,561
+851,"Chicken - Thigh, Bone In",Silvana Behning,773.27,1,2020/04/02,755
+852,Cheese - Stilton,Margi Sarah,101.05,6,2020/01/21,415
+853,Sprouts - Bean,Katina Calf,200.20,15,2020/01/28,867
+854,Stock - Fish,Dallis Penwright,887.19,11,2020/08/11,464
+855,Wine - Vidal Icewine Magnotta,Dallis Penwright,814.28,7,2020/03/19,225
+856,Uniform Linen Charge,Hunfredo Lenglet,52.00,4,2020/02/21,527
+857,Green Tea Refresher,Darell Leatherborrow,675.06,18,2020/01/13,32
+858,Wine - Sake,Darell Leatherborrow,461.68,18,2020/06/03,669
+859,French Pastries,Katina Calf,638.57,18,2020/08/30,324
+860,Wine - Magnotta - Pinot Gris Sr,Margi Sarah,676.31,11,2020/05/30,384
+861,Wine - Prosecco Valdobiaddene,Silvana Behning,186.08,14,2020/11/10,800
+862,Syrup - Monin - Blue Curacao,Quentin Simonson,769.23,6,2020/06/19,225
+863,"Lid - 10,12,16 Oz",Margi Sarah,523.32,13,2020/07/21,82
+864,"Juice - V8, Tomato",Margi Sarah,530.41,1,2020/04/18,91
+865,Muffin Hinge 117n,Katina Calf,424.75,12,2020/07/30,284
+866,Water - Spring Water 500ml,Dallis Penwright,117.87,1,2020/03/20,743
+867,"Fish - Atlantic Salmon, Cold",Darell Leatherborrow,94.64,19,2020/03/19,984
+868,Coffee - Egg Nog Capuccino,Baryram Hemshall,86.26,10,2020/09/29,477
+869,Soup Campbells Mexicali Tortilla,Darell Leatherborrow,640.09,16,2020/07/24,837
+870,"Soup - Knorr, Veg / Beef",Jada Gouch,107.24,8,2020/03/07,209
+871,Thyme - Dried,Pepi Porkiss,114.14,19,2020/06/29,558
+872,Lidsoupcont Rp12dn,Darell Leatherborrow,388.46,14,2020/10/05,953
+873,Veal - Inside,Darell Leatherborrow,976.57,17,2020/07/12,217
+874,Dawn Professionl Pot And Pan,Dallis Penwright,915.75,13,2020/07/23,691
+875,Cranberries - Fresh,Darell Leatherborrow,87.23,8,2020/08/30,983
+876,Chicken - Tenderloin,Dallis Penwright,240.86,9,2020/04/14,267
+877,"Corn - Cream, Canned",Baryram Hemshall,515.17,13,2020/08/02,376
+878,Shortbread - Cookie Crumbs,Dallis Penwright,928.34,6,2020/09/29,992
+879,Beef - Cow Feet Split,Baryram Hemshall,341.34,11,2020/07/03,146
+880,Muffin Mix - Raisin Bran,Darell Leatherborrow,54.88,3,2020/06/03,839
+881,Noodles - Steamed Chow Mein,Quentin Simonson,486.42,2,2020/02/05,139
+882,"Butter - Salted, Micro",Hunfredo Lenglet,58.46,9,2020/03/10,722
+883,Cheese - Brick With Pepper,Jada Gouch,736.76,16,2020/07/29,972
+884,Oil - Avocado,Margi Sarah,854.69,5,2020/10/22,508
+885,Pizza Pizza Dough,Pepi Porkiss,627.03,3,2020/03/09,856
+886,Tea - Decaf 1 Cup,Hunfredo Lenglet,837.03,12,2020/09/24,787
+887,Cheese - Pied De Vents,Hunfredo Lenglet,440.81,3,2020/05/07,765
+888,Yams,Pepi Porkiss,132.50,3,2020/06/25,689
+889,Bagel - Sesame Seed Presliced,Darell Leatherborrow,735.23,11,2020/02/11,874
+890,Shrimp - Tiger 21/25,Katina Calf,520.57,15,2020/08/11,364
+891,"Tart Shells - Sweet, 2",Darell Leatherborrow,637.85,9,2020/02/15,639
+892,Salt - Kosher,Hunfredo Lenglet,893.36,8,2020/08/27,381
+893,Cheese - Le Cru Du Clocher,Quentin Simonson,904.36,20,2020/04/05,597
+894,"Red Snapper - Fillet, Skin On",Jada Gouch,84.38,12,2020/02/06,527
+895,Wine - Crozes Hermitage E.,Dallis Penwright,686.92,17,2020/10/20,302
+896,"Vodka - Hot, Lnferno",Dallis Penwright,845.69,6,2020/05/22,697
+897,Soup Campbells Turkey Veg.,Hunfredo Lenglet,109.09,13,2020/06/08,592
+898,Bread - Petit Baguette,Baryram Hemshall,103.55,5,2020/04/23,679
+899,Pomello,Dallis Penwright,329.13,20,2020/10/24,558
+900,Uniform Linen Charge,Jada Gouch,255.42,11,2020/08/17,58
+901,"Pepper - Green, Chili",Darell Leatherborrow,731.58,14,2020/04/12,764
+902,Lobster - Live,Pepi Porkiss,643.76,15,2020/03/22,306
+903,"Chilli Paste, Hot Sambal Oelek",Darell Leatherborrow,761.25,4,2020/11/17,480
+904,"Wine - Magnotta, White",Hunfredo Lenglet,484.81,13,2020/10/03,832
+905,"Pepper - Chillies, Crushed",Margi Sarah,560.74,1,2020/06/30,307
+906,Cheese - Ermite Bleu,Dallis Penwright,460.76,10,2020/02/20,255
+907,Gatorade - Fruit Punch,Pepi Porkiss,712.01,16,2020/10/23,608
+908,Pear - Asian,Darell Leatherborrow,804.46,7,2020/08/31,722
+909,Nantucket - 518ml,Baryram Hemshall,714.35,11,2020/07/27,730
+910,Beer - Paulaner Hefeweisse,Silvana Behning,759.90,8,2020/06/29,803
+911,"Wine - Magnotta, Merlot Sr Vqa",Margi Sarah,823.50,13,2020/02/02,889
+912,Jack Daniels,Darell Leatherborrow,204.78,18,2020/01/11,774
+913,Carrots - Jumbo,Jada Gouch,313.42,15,2020/10/02,857
+914,Appetizer - Veg Assortment,Hunfredo Lenglet,869.78,2,2020/10/20,115
+915,Petite Baguette,Silvana Behning,715.93,12,2020/03/28,52
+916,Wine - Sake,Silvana Behning,795.83,19,2020/08/13,973
+917,Soup Knorr Chili With Beans,Katina Calf,310.65,14,2020/01/26,542
+918,"Beef - Ox Tail, Frozen",Katina Calf,184.09,2,2020/02/27,809
+919,"Gingerale - Schweppes, 355 Ml",Quentin Simonson,73.64,15,2020/09/24,145
+920,Sauce - Hp,Katina Calf,902.97,7,2020/07/02,544
+921,Ice Cream Bar - Drumstick,Darell Leatherborrow,895.86,13,2020/05/15,564
+922,"Wine - White, Pelee Island",Darell Leatherborrow,837.07,10,2020/06/24,356
+923,Danishes - Mini Raspberry,Baryram Hemshall,939.74,7,2020/08/14,119
+924,Turnip - Wax,Dallis Penwright,525.77,16,2020/04/12,363
+925,Vodka - Smirnoff,Silvana Behning,906.72,4,2020/07/18,412
+926,Snapple - Mango Maddness,Quentin Simonson,503.71,6,2020/01/17,915
+927,Cafe Royale,Margi Sarah,550.25,17,2020/07/22,297
+928,Muffin - Blueberry Individual,Hunfredo Lenglet,494.80,8,2020/10/31,388
+929,"Pasta - Shells, Medium, Dry",Darell Leatherborrow,985.07,7,2020/10/18,410
+930,Seabream Whole Farmed,Darell Leatherborrow,552.96,10,2020/09/02,799
+931,"Butter - Salted, Micro",Baryram Hemshall,525.41,17,2020/03/20,921
+932,Bread - Corn Muffaletta,Hunfredo Lenglet,97.65,17,2020/11/17,820
+933,Island Oasis - Peach Daiquiri,Dallis Penwright,585.60,14,2020/03/06,82
+934,Creme De Menthe Green,Hunfredo Lenglet,762.11,5,2020/09/06,761
+935,Pie Filling - Cherry,Margi Sarah,234.36,1,2020/04/26,851
+936,Red Pepper Paste,Margi Sarah,116.89,15,2020/06/26,108
+937,Sprouts - Alfalfa,Margi Sarah,83.93,1,2020/02/24,315
+938,Lettuce - Romaine,Baryram Hemshall,559.49,15,2020/05/29,850
+939,Tea - Grapefruit Green Tea,Katina Calf,331.65,2,2020/02/12,865
+940,Wine - Penfolds Koonuga Hill,Hunfredo Lenglet,397.49,20,2020/06/01,844
+941,"Garlic - Primerba, Paste",Quentin Simonson,747.40,11,2020/09/29,97
+942,Garlic Powder,Silvana Behning,857.38,3,2020/10/07,381
+943,Island Oasis - Sweet And Sour Mix,Darell Leatherborrow,754.40,15,2020/02/03,784
+944,Jam - Apricot,Margi Sarah,327.49,17,2020/11/10,856
+945,Chutney Sauce - Mango,Darell Leatherborrow,918.30,12,2020/11/17,766
+946,Cape Capensis - Fillet,Hunfredo Lenglet,984.41,18,2020/10/14,468
+947,Cake - Dulce De Leche,Silvana Behning,151.20,11,2020/10/01,797
+948,Pear - Asian,Katina Calf,561.34,16,2020/04/22,958
+949,Cookies - Amaretto,Margi Sarah,585.63,9,2020/05/20,825
+950,Longos - Lasagna Veg,Darell Leatherborrow,310.97,19,2020/10/31,836
+951,Oil - Olive,Margi Sarah,853.72,5,2020/09/28,613
+952,Cleaner - Comet,Quentin Simonson,308.39,10,2020/11/16,764
+953,Rum - Mount Gay Eclipes,Quentin Simonson,659.95,12,2020/01/06,556
+954,Beer - Original Organic Lager,Jada Gouch,965.30,13,2020/03/24,506
+955,Pastry - Mini French Pastries,Quentin Simonson,816.76,6,2020/11/22,736
+956,Yeast Dry - Fleischman,Jada Gouch,659.75,12,2020/06/13,881
+957,Pepsi - 600ml,Katina Calf,282.13,11,2020/10/30,806
+958,Vinegar - Red Wine,Hunfredo Lenglet,294.13,11,2020/06/28,770
+959,Otomegusa Dashi Konbu,Hunfredo Lenglet,753.77,16,2020/09/28,703
+960,Napkin - Beverage 1 Ply,Quentin Simonson,942.21,3,2020/07/03,751
+961,Pork - Bones,Katina Calf,931.81,6,2020/01/27,292
+962,"Crab - Claws, 26 - 30",Silvana Behning,887.40,1,2020/06/01,289
+963,Melon - Honey Dew,Hunfredo Lenglet,348.39,4,2020/02/25,223
+964,Paper Cocktail Umberlla 80 - 180,Hunfredo Lenglet,948.91,4,2020/01/31,777
+965,Petit Baguette,Pepi Porkiss,465.55,12,2020/10/08,386
+966,Tomato - Plum With Basil,Katina Calf,999.92,19,2020/09/19,53
+967,Cheese - Fontina,Darell Leatherborrow,272.30,15,2020/08/28,632
+968,Truffle Cups - Red,Silvana Behning,145.46,6,2020/10/13,116
+969,Zucchini - Yellow,Katina Calf,791.49,19,2020/03/18,712
+970,Fuji Apples,Jada Gouch,678.77,13,2020/08/05,361
+971,Appetizer - Mushroom Tart,Baryram Hemshall,656.81,6,2020/11/23,384
+972,Lettuce - Romaine,Darell Leatherborrow,993.06,17,2020/03/10,185
+973,Olives - Nicoise,Quentin Simonson,66.62,1,2020/10/02,240
+974,Liquid Aminios Acid - Braggs,Darell Leatherborrow,915.81,12,2020/05/19,290
+975,Papayas,Dallis Penwright,748.82,6,2020/11/01,564
+976,Compound - Mocha,Jada Gouch,597.26,19,2020/01/19,844
+977,Crackers Cheez It,Silvana Behning,313.79,15,2020/05/03,489
+978,Cinnamon Buns Sticky,Silvana Behning,180.34,9,2020/06/04,238
+979,Propel Sport Drink,Jada Gouch,616.91,4,2020/01/14,255
+980,Rice - 7 Grain Blend,Hunfredo Lenglet,376.00,14,2020/10/07,61
+981,Sesame Seed,Hunfredo Lenglet,540.70,5,2020/11/11,516
+982,"7up Diet, 355 Ml",Baryram Hemshall,382.22,17,2020/07/31,377
+983,Pan Grease,Dallis Penwright,360.64,15,2020/05/30,867
+984,"Water, Tap",Silvana Behning,623.76,8,2020/05/12,891
+985,"Veal - Leg, Provimi - 50 Lb Max",Jada Gouch,475.82,12,2020/01/24,595
+986,Cornstarch,Margi Sarah,322.77,1,2020/11/16,264
+987,Shrimp - Black Tiger 16/20,Katina Calf,387.91,1,2020/08/27,482
+988,"Shrimp - 16/20, Peeled Deviened",Quentin Simonson,976.13,6,2020/10/07,663
+989,Arctic Char - Fillets,Margi Sarah,789.88,5,2020/11/21,712
+990,Bandage - Flexible Neon,Jada Gouch,277.97,20,2020/03/13,782
+991,"Pork - Chop, Frenched",Hunfredo Lenglet,832.20,10,2020/10/08,565
+992,Hagen Daza - Dk Choocolate,Baryram Hemshall,981.83,13,2020/08/18,324
+993,Campari,Pepi Porkiss,762.15,10,2020/06/06,359
+994,Sour Cream,Baryram Hemshall,572.89,1,2020/07/15,666
+995,Puree - Mango,Jada Gouch,854.81,5,2020/09/12,45
+996,"Wine - Magnotta, White",Katina Calf,131.61,17,2020/10/03,549
+997,Star Fruit,Jada Gouch,361.05,10,2020/01/19,338
+998,Foam Tray S2,Margi Sarah,116.92,10,2020/02/11,361
+999,Cognac - Courvaisier,Katina Calf,856.60,12,2020/02/10,628
+1000,Trout Rainbow Whole,Katina Calf,479.41,14,2020/06/10,298
