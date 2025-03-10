@@ -1,4 +1,4 @@
-# Create a stored procedure that takes the start and end dates of the sales and display all the sales transactions between the start and the end dates.
+-- Create a stored procedure that takes the start and end dates of the sales and display all the sales transactions between the start and the end dates.
 
 DROP PROCEDURE IF EXISTS GetDates; 
 DELIMITER $$
