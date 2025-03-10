@@ -1,6 +1,6 @@
 /*
 =============================================================
-Create Database and Schemas
+Create Database and Tables
 =============================================================
 Script Purpose:
 This script covers the creation of the database, insertion of the tables, and the population of these tables using DDL. 
