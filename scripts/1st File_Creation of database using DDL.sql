@@ -24,69 +24,72 @@ DROP DATABASE IF EXISTS Retail;
 CREATE DATABASE Retail;
 USE Retail;
 
--- Create the 'Customers' table
+-- Create the 'Customers' table with optimized data types
 CREATE TABLE Customers(
-CustomerId MEDIUMINT NOT NULL AUTO_INCREMENT, 
-first_name VARCHAR(100),
-last_name  VARCHAR(100),
-email VARCHAR(100),
-gender VARCHAR(100),
-address VARCHAR(255), 
-phone VARCHAR(100), 
-city VARCHAR(100),
-PRIMARY KEY (CustomerId)
-);
+    CustomerId INT AUTO_INCREMENT, 
+    first_name VARCHAR(50),
+    last_name VARCHAR(50),
+    email VARCHAR(100) UNIQUE,
+    gender ENUM('Male', 'Female', 'Other'),
+    address VARCHAR(255), 
+    phone VARCHAR(20), 
+    city VARCHAR(100),
+    PRIMARY KEY (CustomerId)
+) ENGINE=InnoDB;
 
 
 -- Create the 'product' table
 CREATE TABLE product(
-ProductId VARCHAR(100), 
-ProductName VARCHAR(100),
-employer_name VARCHAR(100), 
-price INT, 
-qtd INT, 
-transaction_date VARCHAR(100),
-CustomerId MEDIUMINT NOT NULL,  
-PRIMARY KEY (ProductId),
-FOREIGN KEY (CustomerId) REFERENCES Customers(CustomerId)
-);
+    ProductId VARCHAR(100), 
+    ProductName VARCHAR(100),
+    employer_name VARCHAR(100), 
+    price INT UNSIGNED, 
+    qtd INT UNSIGNED, 
+    transaction_date DATE, 
+    CustomerId INT NOT NULL,  
+    PRIMARY KEY (ProductId),
+    FOREIGN KEY (CustomerId) REFERENCES Customers(CustomerId) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB;
 
 
 -- Create the 'Suppliers' table
 CREATE TABLE Suppliers(
-SupplierId VARCHAR(100), 
-supplier_name VARCHAR(100), 
-ProductId VARCHAR(100), 
-StockQty VARCHAR(100),
-delivery_date VARCHAR(100),
-PRIMARY KEY (SupplierId),
-FOREIGN KEY (ProductId) REFERENCES product(ProductId)
-);
+    SupplierId INT AUTO_INCREMENT, 
+    supplier_name VARCHAR(100), 
+    ProductId VARCHAR(100), 
+    StockQty INT UNSIGNED, 
+    delivery_date DATE, 
+    PRIMARY KEY (SupplierId),
+    FOREIGN KEY (ProductId) REFERENCES product(ProductId) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB;
 
 
+-- Load the data from CSV files into the 'Customers' table
 LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Customers.csv' 
 INTO TABLE Customers
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS
-(CustomerId, first_name, last_name,email,gender,address,phone,city);
+(CustomerId, first_name, last_name, email, gender, address, phone, city);
 
 
+-- Load the data from CSV files into the 'Product' table
 LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/product.csv' 
 INTO TABLE product
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS
-(ProductId,ProductName,employer_name,price,qtd,transaction_date,CustomerId);
+(ProductId, ProductName, employer_name, price, qtd, transaction_date, CustomerId);
 
+-- Load the data from CSV files into the 'Suppliers' table
 LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/suppliers.csv' 
 INTO TABLE Suppliers
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS
-(SupplierId,supplier_name ,ProductId,StockQty,delivery_date);
+(SupplierId, supplier_name, ProductId, StockQty, delivery_date);
 
 
